@@ -1,5 +1,6 @@
-# change_pot
-Data on the change in my change pot
+# Change Pot
+
+Data on the change in my change pot. I add coins randomly to this pot and rarely remove them although I have a collection of unique design coins which do not go into the pot which likely biases the data.
 
 | Coin | Count | Value  |
 |------|-------|--------|
@@ -13,5 +14,7 @@ Data on the change in my change pot
 |   £2 | 6     | £12.00 |
 |      | 305   | £77.56 |
 
-
 ![Graph of coins by value and year](summary_graph.png)
+
+# License
+CC0 Universal
