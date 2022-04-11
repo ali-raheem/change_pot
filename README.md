@@ -14,7 +14,7 @@ Data on the change in my change pot. I add coins randomly to this pot and rarely
 |   £2 | 6     | £12.00 |
 |      | 305   | £77.56 |
 
-![Graph of coins by value and year](summary_graph.png)
+![Graph of coins by value and year](summary_plot.png)
 
 # License
 CC0 Universal
