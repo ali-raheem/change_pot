@@ -16,7 +16,11 @@ Data on the change in my change pot. I add coins randomly to this pot and rarely
 
 ![Graph of coins by value and year](summary_plot.png)
 
+![Histogram of the data](summary_histogram.png)
+
 ![The pile of coins and change pot](change_pot.jpg)
+
+
 
 # License
 CC0 Universal
